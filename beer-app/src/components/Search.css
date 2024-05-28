@@ -1,0 +1,12 @@
+/* src/components/Search.css */
+.search {
+  margin: 20px 0;
+}
+
+.search input {
+  padding: 10px;
+  width: 200px;
+  border: 1px solid #524C42;
+  border-radius: 4px;
+  color: #32012F;
+}

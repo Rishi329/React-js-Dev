@@ -1,0 +1,13 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  background-color: #E2DFD0;
+  color: #524C42;
+}
+
+.beer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 2rem;
+}
